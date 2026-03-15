@@ -10,7 +10,7 @@ The goal of the assignment was to design a simple brand identity and develop a r
 
 View the deployed project here:
 
-https://yashwanthguna.github.io/idr-digital-risk-brand-homepage/
+https://yashwanthguna.github.io/idr-digital-risk-brand-homepage-/
 
 ---
 
